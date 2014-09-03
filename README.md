@@ -14,8 +14,11 @@ To deploy it on Bluemix (or Cloud Foundry) I used the Nginx buildpack for static
 (https://github.com/cloudfoundry-community/nginx-buildpack)
 
 <BR> Simply push the application using the following command on CF:
-<BR>>cf push -b https://github.com/cloudfoundry-community/nginx-buildpack <appname>
+<BR>
 
+```
+cf push -b https://github.com/cloudfoundry-community/nginx-buildpack <appname>
+```
 
 <BR>Find more information about Bluemix and this application in my blog:
 <BR>(http://bluemixanalytics.wordpress.com/2014/09/02/lets-welcome-the-new-bluemix-application-gallery/)
