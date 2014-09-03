@@ -6,7 +6,7 @@ There are more and more articles and very good sample applications showing the c
 
 <center>![alt tag](http://bluemixanalytics.files.wordpress.com/2014/09/app-gallery.png?w=700&h=476)</center>
 
-The website is developed using [Bootstrap](http://getbootstrap.com/)
+The website is developed using [Bootstrap](http://getbootstrap.com/) <BR>
 The thumbnail hover effect is coming from here: (http://www.bootply.com/90238)
 
 
