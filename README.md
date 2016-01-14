@@ -17,7 +17,7 @@ https://github.com/cloudfoundry-community/nginx-buildpack
 <BR>
 
 ```
-cf push -b https://github.com/cloudfoundry-community/nginx-buildpack <appname>
+cf push -b https://github.com/cloudfoundry/staticfile-buildpack <appname>
 ```
 
 <BR>Find more information about Bluemix and this application in my blog:
